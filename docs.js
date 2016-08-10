@@ -21524,7 +21524,7 @@
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
-	var baseUrl = '/img/react-slick';
+	var baseUrl = 'img/react-slick';
 	if (process.env.NODE_ENV === 'production') {
 	  baseUrl = 'https://s3.amazonaws.com/static.neostack.com/img/react-slick';
 	}
