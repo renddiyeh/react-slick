@@ -25742,7 +25742,7 @@
 	/* WEBPACK VAR INJECTION */(function(process) {'use strict';
 	
 	exports.__esModule = true;
-	var baseUrl = exports.baseUrl = process.env.NODE_ENV === 'production' ? 'https://s3.amazonaws.com/static.neostack.com/img/react-slick' : '/img/react-slick';
+	var baseUrl = exports.baseUrl = process.env.NODE_ENV === 'production' ? 'https://s3.amazonaws.com/static.neostack.com/img/react-slick' : 'img/react-slick';
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(4)))
 
 /***/ },
